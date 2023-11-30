@@ -1,12 +1,14 @@
 # Module 5 assignment
 
 ## Description
-Showing off using the collabration tool of github for CS305 assignment 5
+Basic workout tracker, tracks the exercise, reps and weight that you lifted for any given exercise. 
 
 ## Features
-List the key features of your project. For example:
-- Setting up the assignment: Q00-Q04
-- Collaborating with GitHub: Q05-Q11
+List the key features of your project
+- Be able to add exercise
+- Be able to record reps
+- Be able to record the weight you lifted
+
 
 ## Installation
 Provide step-by-step instructions on how to install your project. For example:
