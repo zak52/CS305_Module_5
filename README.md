@@ -8,6 +8,7 @@ List the key features of your project
 - Be able to add exercise
 - Be able to record reps
 - Be able to record the weight you lifted
+- Be able to track consecutive workouts
 
 
 ## Installation
